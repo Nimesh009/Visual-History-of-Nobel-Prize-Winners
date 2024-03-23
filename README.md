@@ -11,5 +11,5 @@ Which country gets it most often? And has anybody gotten it twice?
 
 Let's figure this out.
 
-![1613629049169](https://github.com/Nimesh009/Visual-History-of-Nobel-Prize-Winners/assets/52086733/12ddd8ca-7c17-4aca-bff5-003ba6f90d1f)
+
 
